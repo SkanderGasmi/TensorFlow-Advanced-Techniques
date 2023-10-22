@@ -12,7 +12,7 @@ Please explore the individual sub-repositories for specific NLP topics:
 1. [Custom Models Layers and Loss Functions with TensorFlow](https://github.com/SkanderGasmi/Custom-Models-Layers-and-Loss-Functions-with-TensorFlow)
 
 -----------------------------------------------------------------------------------------------------------------------------
-2. [Custom and Distributed Training with TensorFlow]([https://github.com/SkanderGasmi/NLP-with-Probabilistic-Models](https://github.com/SkanderGasmi/Custom-and-Distributed-Training-with-TensorFlow))
+2. [Custom and Distributed Training with TensorFlow](https://github.com/SkanderGasmi/Custom-and-Distributed-Training-with-TensorFlow)
 
 -----------------------------------------------------------------------------------------------------------------------------
 3. [Advanced Computer Vision with TensorFlow](https://github.com/SkanderGasmi/Advanced-Computer-Vision-with-TensorFlow)
